@@ -1,0 +1,7 @@
+{
+  "name": "AppRest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
